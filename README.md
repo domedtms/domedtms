@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Domenico
 
-<!--
-**domedtms/domedtms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student @ Politecnico di Milano  
+💻 Building real-world software systems and technical projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- 🏦 Financial data systems @ Zucchetti  
+- ⚙️ PLUS — AI & Blockchain platform for financial data tokenization  
+
+---
+
+## 🧠 Areas of Interest
+
+- Software Engineering  
+- Backend Systems  
+- AI × Finance  
+- Startups & Product Building  
+
+---
+
+## 🛠 Tech Stack
+
+```bash
+Languages:   C++, Python, JavaScript
+Backend:     FastAPI, REST APIs
+Tools:       Docker, Git, GitHub Actions
+Learning:    AWS Cloud, System Design
+```
+
+---
+
+## 📈 What I’m Doing
+
+* Building real-world financial data workflows
+* Designing scalable backend architectures
+* Developing an AI-driven financial infrastructure (PLUS)
+
+---
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/domenico-di-tommaso
+* Portfolio: https://domenicoditommaso.vercel.app/#contact
