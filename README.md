@@ -1,13 +1,9 @@
 <!--
   GitHub profile README · V2
-  Design: responsive by default, lightweight, accessible, no third-party stat widgets.
-  Personal portrait: this uses the current GitHub avatar; replace it with a dedicated
-  photo in assets/profile.jpg once a preferred photo is provided.
+  Lightweight, mobile-friendly Markdown with GitHub-hosted avatar.
+  Reserve the hero image for a real photo provided by the profile owner.
+  When chosen, add it in assets/ and show it above the name with width="100%".
 -->
-
-<p align="center">
-  <img src="assets/engineering-banner.svg" alt="Illustration of software architecture, code, and interconnected product components" width="100%" />
-</p>
 
 <div align="center">
 
@@ -92,10 +88,3 @@ I enjoy talking about engineering decisions, new ideas, and products being built
 
 [**Portfolio**](https://domenicoditommaso.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/domenico-di-tommaso)
 
-<!--
-  PHOTO SLOT (optional):
-  Add assets/profile.jpg after choosing a high-resolution personal photo.
-  Then replace the external GitHub avatar above with:
-  <img src="assets/profile.jpg" width="128" alt="Portrait of Domenico Di Tommaso" />
-  Keep the portrait simple and compressed for mobile readers.
--->
