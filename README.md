@@ -1,9 +1,12 @@
 <!--
   GitHub profile README · V2
-  Lightweight, mobile-friendly Markdown. GitHub already displays the profile avatar.
-  Reserve the hero image for a real photo provided by the profile owner.
-  When chosen, add it in assets/ and show it above the name with width="100%".
+  Lightweight, mobile-friendly Markdown.
+  The panorama was provided by the profile owner and is stored in this repo.
 -->
+
+<p align="center">
+  <img src="assets/github-banner.webp" alt="Illustrated developer working at multiple coding monitors in a colorful sci-fi workshop" width="100%" />
+</p>
 
 <div align="center">
 
