@@ -5,12 +5,12 @@
 
 ## 🚀 Featured Projects
 
-**🏛️ [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)**  
+**🏛️ [Civitas - Java MVC Web Application](https://github.com/domedtms/civitas-tiw)**  
 Web application with authentication, roles, voting workflows, and relational persistence. Java · Servlet · JSP · JDBC · MySQL.  
-**30/30 cum laude (30L)** — *Tecnologie Informatiche per il Web*, Politecnico di Milano.
+**30/30 cum laude (30L)** - *Tecnologie Informatiche per il Web*, Politecnico di Milano.
 
-**🧠 PLUS — AI Financial Technology Platform**  
-Developing AI-assisted financial analysis and data workflows. Blockchain attestation and tokenization are part of the broader roadmap. *Core code private; work in progress.*
+**🧠 [PLUS - AI Financial Technology Platform](https://plusrealisticmodel.com)**  
+Developing AI-assisted financial analysis and data workflows. Blockchain attestation and tokenization are part of the broader roadmap. *Core code private; work in progress.* 
 
 **🌐 [Personal Portfolio](https://github.com/domedtms/portfolio)**  
 A personal site built with React, Vite, and Tailwind CSS. [Live website](https://domenicoditommaso.vercel.app/).
