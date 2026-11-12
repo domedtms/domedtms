@@ -1,6 +1,6 @@
 <!--
   GitHub profile README · V2
-  Lightweight, mobile-friendly Markdown with GitHub-hosted avatar.
+  Lightweight, mobile-friendly Markdown. GitHub already displays the profile avatar.
   Reserve the hero image for a real photo provided by the profile owner.
   When chosen, add it in assets/ and show it above the name with width="100%".
 -->
@@ -11,7 +11,6 @@
 
 **Computer Engineering Student · Software Engineering & AI Product Building**
 
-<a href="https://github.com/domedtms"><img src="https://avatars.githubusercontent.com/u/197503114?v=4" width="128" alt="Domenico's GitHub profile avatar" /></a>
 
 I build software products with a focus on **clean architecture, practical execution, and verifiable outcomes**.  
 My interests span backend development, data-driven systems, AI-enabled workflows, and financial technology.
@@ -22,9 +21,9 @@ My interests span backend development, data-driven systems, AI-enabled workflows
 
 ---
 
-## Selected work
+## 🚀 Selected work
 
-### [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)
+### 🏛️ [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)
 
 **Java 17 · Servlet · JSP · JDBC · MySQL · Maven · GitHub Actions**
 
@@ -40,7 +39,7 @@ A web application for governing fictional micro-nations, developed for the **Tec
 
 [Explore the source code and architecture →](https://github.com/domedtms/civitas-tiw)
 
-### PLUS — AI Financial Technology Platform
+### 🧠 PLUS — AI Financial Technology Platform
 
 **AI-assisted analysis · Financial data workflows · Software architecture · Tokenization research & development**
 
@@ -50,7 +49,7 @@ My work covers technical planning, product thinking, software architecture, and 
 
 *The core repositories are private. This profile intentionally distinguishes implemented work from planned capabilities.*
 
-### [Personal Portfolio — React Web App](https://github.com/domedtms/portfolio)
+### 🌐 [Personal Portfolio — React Web App](https://github.com/domedtms/portfolio)
 
 **React · JavaScript · Vite · Tailwind CSS · Vercel**
 
@@ -60,7 +59,7 @@ A personal website built to present software projects, technical experience, and
 
 ---
 
-## How I work
+## 🛠️ How I work
 
 I care about **understanding the problem before choosing the technology**, separating responsibilities in code, documenting decisions, and iterating through working versions.
 
@@ -76,15 +75,8 @@ Areas I work with:
 
 These are technologies and areas of experience or active learning—not a claim of equal proficiency in every tool.
 
-## Currently exploring
+## 🔭 Currently exploring
 
 - Building reliable and maintainable software systems.
 - Turning AI-assisted workflows into usable products.
 - Connecting software engineering, financial data, and product design.
-
-## Let's connect
-
-I enjoy talking about engineering decisions, new ideas, and products being built in the real world.
-
-[**Portfolio**](https://domenicoditommaso.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/domenico-di-tommaso)
-
