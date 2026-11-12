@@ -3,19 +3,6 @@
   <img src="assets/github-banner.webp" alt="Illustrated software developer at coding monitors" width="100%" />
 </p>
 
-<div align="center">
-
-# Domenico Di Tommaso
-
-**Computer Engineering Student · Politecnico di Milano**  
-**Software Engineering & AI Product Building**
-
-Building software systems and AI-driven products, with a focus on backend development, financial technology, and practical problem-solving.
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 **🏛️ [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)**  
@@ -34,6 +21,8 @@ A personal site built with React, Vite, and Tailwind CSS. [Live website](https:/
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -46,9 +35,9 @@ A personal site built with React, Vite, and Tailwind CSS. [Live website](https:/
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats for domedtms" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats for domedtms" />
   </picture>
 </div>
 
