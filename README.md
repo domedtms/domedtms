@@ -34,11 +34,7 @@ A personal site built with React, Vite, and Tailwind CSS. [Live website](https:/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats for domedtms" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=domedtms&amp;theme=tokyonight&amp;hide_border=true&amp;background=020c1b&amp;ring=3a8fff&amp;fire=00e891&amp;currStreakLabel=3a8fff" alt="GitHub contribution streak for domedtms: total contributions, current streak, and longest streak" width="500" />
 </div>
 
 ## 📫 Connect
