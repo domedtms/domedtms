@@ -1,85 +1,60 @@
-<!--
-  GitHub profile README · V2
-  Lightweight, mobile-friendly Markdown.
-  The panorama was provided by the profile owner and is stored in this repo.
--->
-
+<!-- Compact GitHub profile README V2 -->
 <p align="center">
-  <img src="assets/github-banner.webp" alt="Illustrated developer working at multiple coding monitors in a colorful sci-fi workshop" width="100%" />
+  <img src="assets/github-banner.webp" alt="Illustrated software developer at coding monitors" width="100%" />
 </p>
 
 <div align="center">
 
 # Domenico Di Tommaso
 
-**Computer Engineering Student · Software Engineering & AI Product Building**
+**Computer Engineering Student · Politecnico di Milano**  
+**Software Engineering & AI Product Building**
 
-
-I build software products with a focus on **clean architecture, practical execution, and verifiable outcomes**.  
-My interests span backend development, data-driven systems, AI-enabled workflows, and financial technology.
-
-[Portfolio](https://domenicoditommaso.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/domenico-di-tommaso) · [GitHub](https://github.com/domedtms)
+Building software systems and AI-driven products, with a focus on backend development, financial technology, and practical problem-solving.
 
 </div>
 
 ---
 
-## 🚀 Selected work
+## 🚀 Featured Projects
 
-### 🏛️ [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)
+**🏛️ [Civitas — Java MVC Web Application](https://github.com/domedtms/civitas-tiw)**  
+Web application with authentication, roles, voting workflows, and relational persistence. Java · Servlet · JSP · JDBC · MySQL.  
+**30/30 cum laude (30L)** — *Tecnologie Informatiche per il Web*, Politecnico di Milano.
 
-**Java 17 · Servlet · JSP · JDBC · MySQL · Maven · GitHub Actions**
+**🧠 PLUS — AI Financial Technology Platform**  
+Developing AI-assisted financial analysis and data workflows. Blockchain attestation and tokenization are part of the broader roadmap. *Core code private; work in progress.*
 
-A web application for governing fictional micro-nations, developed for the **Tecnologie Informatiche per il Web** course at **Politecnico di Milano**.
+**🌐 [Personal Portfolio](https://github.com/domedtms/portfolio)**  
+A personal site built with React, Vite, and Tailwind CSS. [Live website](https://domenicoditommaso.vercel.app/).
 
-- Designed a layered application with controllers, services, data-access objects, and relational models.
-- Implemented authentication, role-based actions, law proposals, voting workflows, and decision history.
-- Built JSON/AJAX dashboard features and automated in-app newspaper generation.
-- Documented architecture, HTTP flows, database design, test plans, and a feature-branch / pull-request workflow.
-- Added a GitHub Actions workflow that builds the Java WAR with Maven.
+## 🛠️ Tech Stack
 
-**Academic result: 30/30 cum laude (30L)** in the associated university exam.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-[Explore the source code and architecture →](https://github.com/domedtms/civitas-tiw)
+## 📊 GitHub Stats
 
-### 🧠 PLUS — AI Financial Technology Platform
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=domedtms&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats for domedtms" />
+  </picture>
+</div>
 
-**AI-assisted analysis · Financial data workflows · Software architecture · Tokenization research & development**
+## 📫 Connect
 
-An evolving project exploring how financial information can become more **structured, interpretable, and verifiable**.
-
-My work covers technical planning, product thinking, software architecture, and the development of financial-data and AI-oriented workflows. Blockchain, attestation, and tokenization are part of the broader development roadmap; their implementation status varies by component.
-
-*The core repositories are private. This profile intentionally distinguishes implemented work from planned capabilities.*
-
-### 🌐 [Personal Portfolio — React Web App](https://github.com/domedtms/portfolio)
-
-**React · JavaScript · Vite · Tailwind CSS · Vercel**
-
-A personal website built to present software projects, technical experience, and the decisions behind my work.
-
-[View live website →](https://domenicoditommaso.vercel.app/)
-
----
-
-## 🛠️ How I work
-
-I care about **understanding the problem before choosing the technology**, separating responsibilities in code, documenting decisions, and iterating through working versions.
-
-**Design → Build → Validate → Improve**
-
-Areas I work with:
-
-- **Languages:** Java, Python, JavaScript, SQL, C++
-- **Backend & data:** Java Servlet/JDBC, FastAPI, REST APIs, relational databases
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Workflow:** Git, GitHub pull requests, Maven, Docker, GitHub Actions
-- **Exploring:** AI-powered product systems, cloud infrastructure, financial technology
-
-These are technologies and areas of experience or active learning—not a claim of equal proficiency in every tool.
-
-## 🔭 Currently exploring
-
-- Building reliable and maintainable software systems.
-- Turning AI-assisted workflows into usable products.
-- Connecting software engineering, financial data, and product design.
+<p align="center">
+  <a href="https://www.linkedin.com/in/domenico-di-tommaso"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://domenicoditommaso.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+</p>
